@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">project.test12</value>
+  <value name="node_pkg">Test12Project</value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">rihuilu@ibm.com</value>
+    <value name="modifiedBy">rihuilu@ibm.com</value>
+    <value name="createdDate">2026-09-28T19:37:45.224077306Z</value>
+    <value name="lastModifiedDate">2026-09-28T19:37:45.224077306Z</value>
+  </record>
+  <value name="is_public">false</value>
+</Values>
