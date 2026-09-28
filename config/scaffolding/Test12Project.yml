@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Test12Project
+  gitServerName: rihui
+  gitUrl: https://github.com/Rihui-L-IBM
+  gitUsername: Rihui-L-IBM
+  gitBranch: main
