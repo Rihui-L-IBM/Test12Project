@@ -7,3 +7,7 @@ packages:
   gitUrl: https://github.com/Rihui-L-IBM
   gitUsername: Rihui-L-IBM
   gitBranch: main
+- name: JcPublicTools
+  wpmServer: https://packages.webmethods.io
+  wpmRegistry: public
+  wpmVersion: v2.1.0
